@@ -17,7 +17,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/dd/b5/f1/ddb5f19c1f0742579ae85a1c4d347557.jpg" width="100%">
+  <img src="https://i.pinimg.com/originals/02/87/d3/0287d3ba8b3330fca99f69e2001d3168.gif" width="100%">
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
